@@ -1,0 +1,23 @@
+header{
+  font-size: 20px;
+  height: 10%
+  clear: both;
+
+}
+div {
+  font-size: 10px
+  width: 33.333%;
+  float: left;
+
+}
+
+p {
+
+
+}
+
+footer {
+  font-size: 8px;
+  clear: both;
+
+}
